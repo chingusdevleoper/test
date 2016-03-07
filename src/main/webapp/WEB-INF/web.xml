@@ -28,5 +28,11 @@
 			org.springframework.web.context.ContextLoaderListener
 		</listener-class>
 	</listener>
-	
+
+	<welcome-file-list>
+    <welcome-file>/WEB-INF/views/logIn.jsp</welcome-file>
+	</welcome-file-list>
+
+
+
 </web-app>
