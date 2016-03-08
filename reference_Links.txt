@@ -1,0 +1,21 @@
+Credentials
+===========
+chingusdeveloper123		(git password)
+chingusdeveloper@gmail.com	(git user name is also same)
+1 Sept 1990			(entered birthdate)
+
+git clone URL
+=============
+https://github.com/chingusdevleoper/test.git
+
+to download git
+===============
+http://git-scm.com/download/win
+
+git basic help
+==============
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+Spring Security reference
+===========================
+http://www.springbyexample.org/examples/simple-spring-security-webapp.html
