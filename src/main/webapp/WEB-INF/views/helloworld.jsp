@@ -13,7 +13,7 @@
 	<FORM id="form1" METHOD="POST" action="New">
 		
 		<c:if test="${not empty existingProjectsList}">
-			<center>Existing Projects List for <c:out value="${name}"></c:out>
+			<center><h3>Existing Projects List for <c:out value="${name}"></c:out></h3>
 			
 				<c:forEach var="listValue" items="${existingProjectsList}" >
 					 <li><a href="hello">${listValue}</a></li>

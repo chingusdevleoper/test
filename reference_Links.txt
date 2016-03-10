@@ -19,3 +19,17 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 Spring Security reference
 ===========================
 http://www.springbyexample.org/examples/simple-spring-security-webapp.html
+http://websystique.com/spring-security/spring-security-4-custom-login-form-annotation-example/
+http://www.mkyong.com/spring-security/spring-security-form-login-example/
+
+MY-SQL download
+=============================
+http://mysql-com.en.softonic.com/download
+
+Project Sample URL
+====================
+http://localhost:4494/ProjectTest/login
+
+Eclipse Keplar download
+===================================
+http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/keplerr
