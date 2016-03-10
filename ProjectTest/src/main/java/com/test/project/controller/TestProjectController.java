@@ -13,7 +13,7 @@ public class TestProjectController {
 	String message = "Welcome to Spring MVC!";
 	String message2 = "Welcome to Spring MVC 2!";
  
-	@RequestMapping("/hello")
+	@RequestMapping("/ghfgh")
 	public ModelAndView showMessage(
 			@RequestParam(value = "name", required = false, defaultValue = "World") String name) {
 		System.out.println("in controller");
@@ -24,7 +24,7 @@ public class TestProjectController {
 		return mv;
 	}
 	
-	@RequestMapping(value = "/addStudent", method = RequestMethod.POST)
+	@RequestMapping(value = "/dcfhdsxfh", method = RequestMethod.POST)
 	   public ModelAndView addStudent() {
 		System.out.println("in controller 2");
 		 
